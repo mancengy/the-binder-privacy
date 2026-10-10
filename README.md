@@ -1,4 +1,4 @@
-#The Binder privacy policy
+The Binder privacy policy
 
 Last updated: 10 October 2026
 
